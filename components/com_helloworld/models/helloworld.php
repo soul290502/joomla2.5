@@ -42,5 +42,7 @@ class HelloWorldModelHelloWorld extends JModelItem
                         }
                 }
                 return $this->msg;
+                //this version can change the words in view
+                
         }
-}
+/
